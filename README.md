@@ -127,7 +127,7 @@ async function main() {
   console.dir(library);
 
   // Lazy-load an individual header file (random example, see output from above).
-  const headerLoader = library.headers["./include/ogg/config_types.h"];
+  const headerLoader = library.headers["./include/ogg/ogg.h"];
   const header = await headerLoader();
 
   // You can now use the functions and types exported by the header file.
