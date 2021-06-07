@@ -1,0 +1,9 @@
+1606683778
+conaninfo.txt: 596b492b1f3903957642def05f674364
+include/ogg/config_types.h: 82baba0eda6a9d5e99379afc204ee957
+include/ogg/ogg.h: 2106a0f51369b0d990f233103e9a2bf6
+include/ogg/os_types.h: f11f4548a35f0d616bcfc6f135c8f9ee
+lib/libogg.so: e0a27fc1205ae5b5d619dfb952b91b74
+lib/libogg.so.0: e0a27fc1205ae5b5d619dfb952b91b74
+lib/libogg.so.0.8.4: e0a27fc1205ae5b5d619dfb952b91b74
+licenses/COPYING: db1b7a668b2a6f47b2af88fb008ad555

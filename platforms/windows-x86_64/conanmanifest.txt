@@ -1,0 +1,8 @@
+1606683719
+bin/ogg.dll: f6cb0f9f99c140cafa226aaacd25f1d6
+conaninfo.txt: d55361c7090761014720ea2a563c8d6a
+include/ogg/config_types.h: f7456e64c5c4e751d88d2cdd1c13aec1
+include/ogg/ogg.h: 2106a0f51369b0d990f233103e9a2bf6
+include/ogg/os_types.h: f11f4548a35f0d616bcfc6f135c8f9ee
+lib/ogg.lib: c113d2f419e8877fc89f08292463734b
+licenses/COPYING: db1b7a668b2a6f47b2af88fb008ad555

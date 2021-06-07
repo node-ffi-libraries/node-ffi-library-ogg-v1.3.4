@@ -1,0 +1,49 @@
+{
+  "name": "@ffi-libraries/ogg-v1.3.4",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Automatically generated FFI package for ogg v1.3.4: \"The OGG library\". Available for linux-x86_64, macos-armv8, macos-x86_64, windows-x86_64.",
+  "homepage": "https://github.com/node-ffi-libraries/node-ffi-library-ogg-v1.3.4",
+  "repository": "github:node-ffi-libraries/node-ffi-library-ogg-v1.3.4",
+  "license": "MIT",
+  "author": {
+    "name": "Joel Purra",
+    "email": "code+npm@joelpurra.com",
+    "url": "https://joelpurra.com/"
+  },
+  "engines": {
+    "node": "^12.0.0 || ^14.0.0 || ^16.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "ffi",
+    "binding",
+    "foreign function interface",
+    "napi",
+    "abi",
+    "c",
+    "c++",
+    "shared library",
+    "so",
+    "dll",
+    "dylib",
+    "conan.io",
+    "ogg",
+    "ogg-v1.3.4",
+    "conan",
+    "codec",
+    "audio",
+    "lossless"
+  ],
+  "scripts": {
+    "test": "node \"./tests/load-all.js\""
+  },
+  "dependencies": {
+    "engine-check": "^1.0.1",
+    "ffi-napi": "^4.0.3",
+    "ref-array-di": "^1.2.2",
+    "ref-napi": "^3.0.3",
+    "ref-struct-di": "^1.1.1",
+    "ref-union-di": "^1.0.1"
+  }
+}
