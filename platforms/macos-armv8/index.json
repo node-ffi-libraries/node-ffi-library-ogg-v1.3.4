@@ -1,0 +1,35 @@
+{
+  "conan": {
+    "packageId": "30acef53c04f36d5f9412c84a1b3a7434a1f10fb",
+    "reference": "ogg/1.3.4@",
+    "remote": "conan-center"
+  },
+  "library": {
+    "name": "ogg",
+    "reference": "ogg/1.3.4"
+  },
+  "packager": {
+    "name": "@ffi-packager/ffi-packager",
+    "url": "https://github.com/node-ffi-packager",
+    "version": "2.0.0"
+  },
+  "platform": {
+    "headerFiles": [
+      {
+        "name": "./include/ogg/config_types.h",
+        "path": "./include/ogg/config_types.h.js"
+      },
+      {
+        "name": "./include/ogg/ogg.h",
+        "path": "./include/ogg/ogg.h.js"
+      },
+      {
+        "name": "./include/ogg/os_types.h",
+        "path": "./include/ogg/os_types.h.js"
+      }
+    ],
+    "libraryDependencies": {},
+    "libraryFiles": ["./lib/libogg.0.8.4.dylib"],
+    "name": "macos-armv8"
+  }
+}

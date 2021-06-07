@@ -1,0 +1,31 @@
+[settings]
+    arch=armv8
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=12.0
+    os=Macos
+
+[requires]
+
+
+[options]
+    shared=True
+
+[full_settings]
+    arch=armv8
+    build_type=Release
+    compiler=apple-clang
+    compiler.version=12.0
+    os=Macos
+
+[full_requires]
+
+
+[full_options]
+    shared=True
+
+[recipe_hash]
+    b69afb47bef45e7b2b6360aa669dff18
+
+[env]
+
