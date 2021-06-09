@@ -1,7 +1,7 @@
 {
   "name": "@ffi-libraries/ogg-v1.3.4",
   "private": true,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Automatically generated FFI package for ogg v1.3.4: \"The OGG library\". Available for linux-x86_64, macos-armv8, macos-x86_64, windows-x86_64.",
   "homepage": "https://github.com/node-ffi-libraries/node-ffi-library-ogg-v1.3.4",
   "repository": "github:node-ffi-libraries/node-ffi-library-ogg-v1.3.4",
